@@ -1,0 +1,12 @@
+C:\Users\Sergio\Desktop\MovistarTV\TestFF1\bin\Release\MovistarTV.exe
+C:\Users\Sergio\Desktop\MovistarTV\TestFF1\bin\Release\MovistarTV.pdb
+C:\Users\Sergio\Desktop\MovistarTV\TestFF1\obj\x86\Release\MovistarTV.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\MovistarTV\TestFF1\obj\x86\Release\MainWindow.baml
+C:\Users\Sergio\Desktop\MovistarTV\TestFF1\obj\x86\Release\MainWindow.g.cs
+C:\Users\Sergio\Desktop\MovistarTV\TestFF1\obj\x86\Release\App.g.cs
+C:\Users\Sergio\Desktop\MovistarTV\TestFF1\obj\x86\Release\MovistarTV_MarkupCompile.cache
+C:\Users\Sergio\Desktop\MovistarTV\TestFF1\obj\x86\Release\MovistarTV.g.resources
+C:\Users\Sergio\Desktop\MovistarTV\TestFF1\obj\x86\Release\MovistarTV.Properties.Resources.resources
+C:\Users\Sergio\Desktop\MovistarTV\TestFF1\obj\x86\Release\MovistarTV.csproj.GenerateResource.Cache
+C:\Users\Sergio\Desktop\MovistarTV\TestFF1\obj\x86\Release\MovistarTV.exe
+C:\Users\Sergio\Desktop\MovistarTV\TestFF1\obj\x86\Release\MovistarTV.pdb
